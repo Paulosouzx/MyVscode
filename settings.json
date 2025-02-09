@@ -1,0 +1,54 @@
+{
+  "editor.wordWrap": "on",
+  "editor.fontSize": 12,
+  "workbench.iconTheme": "material-icon-theme",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1,
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "open-php-html-js-in-browser.selectedBrowser": "Opera",
+  "workbench.editor.enablePreview": false,
+  "git.rememberPostCommitCommand": true,
+  "git.autofetch": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "files.autoSave": "afterDelay",
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.lineHeight": 1.8,
+  "editor.formatOnSave": true,
+  "prettier.bracketSpacing": false, // Remove o espaço extra entre os colchetes
+  "prettier.trailingComma": "none", // Remove a vírgula no final de objetos/arrays
+  "prettier.jsxBracketSameLine": true, // Para JSX, coloca o fechamento do colchete na mesma linha
+  "editor.tabSize": 4, // Para definir o tamanho do tab, se necessário
+  "editor.insertSpaces": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontLigatures": true, // Usar espaços no lugar de tabulação
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.minimap.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.editor.labelFormat": "short",
+  "editor.renderLineHighlight": "gutter",
+  "explorer.confirmDelete": false
+}
