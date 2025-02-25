@@ -50,5 +50,8 @@
   "workbench.colorTheme": "Min Dark",
   "workbench.editor.labelFormat": "short",
   "editor.renderLineHighlight": "gutter",
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "[prisma]": {
+    "editor.formatOnSave": true
+  }
 }
